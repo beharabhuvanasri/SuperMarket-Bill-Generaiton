@@ -1,4 +1,4 @@
-# 🛒 Supermarket Management System
+# 🛒 Supermarket Bill Management Generation
 
 *A Python-based application to manage core supermarket operations efficiently.*
 
